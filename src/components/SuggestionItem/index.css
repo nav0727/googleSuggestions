@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.item {
+  width: 50vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #fff;
+  padding: 0px;
+  margin: 0px;
+}
+
+.button {
+  background-color: #fff;
+  height: 3vh;
+}
+.arrow {
+  height: 20px;
+  width: 30px;
+  margin: 20px;
+}
+p {
+  margin: 20px;
+}
+
+* {
+  font-family: 'Roboto';
+}
